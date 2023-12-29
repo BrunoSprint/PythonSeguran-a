@@ -23,4 +23,4 @@
 # O UDP ( User Datagram Protocol) ou Protocolo de Datagrama de Usuário é um protocolo simples da camada de transporte que permite que a aplicação envie um Datagrama dentro de um pacote IPv4 ou IPv6 a um destino, porém sem qualquer tipo de garantia que o pacote chegue corretamente.
 
 
-# Criação de Servidor.
+# Criação de Servidor para conexão socket cliente.
