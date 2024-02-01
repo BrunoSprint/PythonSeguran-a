@@ -27,4 +27,3 @@ print("-" * 60) # imprimondo o - 60x
 # PING MULTIPLO
 
 
-
